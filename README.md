@@ -21,4 +21,4 @@ N：结束del函数
 9.	void sum_aver(struct students* p);//计算总分和平均分<br>
 在用户输入添加或修改学生三门课的成绩后进行计算，并存储到相应的结构体数组中
 ### 程序流程图
-![image](http://github.com/suz233/C-StudentManagement/raw/master/流程图.png)
+![image](https://github.com/suze233/C-StudentManagement/blob/master/%E6%B5%81%E7%A8%8B%E5%9B%BE.png)
